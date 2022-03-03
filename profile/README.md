@@ -5,9 +5,9 @@
 
 Protected branches:
 
-- **Main**: Reflects what is on production for hosted projects or the last approved and stable version for other kind of projects
-- **Beta**: Branch for internal testing before approving it for production
-- **Alpha**: If needed, an alpha branch can be created for early stage things that need to be tested
+- **main**: Reflects what is on production for hosted projects or the last approved and stable version for other kind of projects
+- **beta**: Branch for internal testing before approving it for production
+- **alpha**: If needed, an alpha branch can be created for early stage things that need to be tested
 
 Development branches:
 
@@ -30,6 +30,8 @@ Development branches:
 ### Backend
 
 ### Frontend
+
+* [Molteo-Webapp](https://github.com/molteo-engineering-team/Molteo-Webapp): Our web app
 
 ### Mobile
 
